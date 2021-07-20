@@ -1,0 +1,54 @@
+body
+{
+    background-color: #334257;
+}
+h1
+{
+    text-align: center;
+    font-size: 7em;
+    letter-spacing: 3px;
+    font-family:'Lobster', cursive;
+    color: #EEEEEE;
+    margin: 0px 0px 30px;
+    text-shadow: 3px 3px 10px greenyellow;
+}
+hr
+{
+    border-top: 5px dotted #EEEEEE;
+    border-bottom: 0px;
+    width: 40vw;
+    box-shadow: 5px 0px 10px greenyellow;
+}
+h2
+{
+    font-family: 'Fuggles', cursive;
+    color:  #EEEEEE;
+    font-size: 4.8em;
+    letter-spacing: 7px;
+    text-shadow: 2px 1px 5px greenyellow;
+}
+.player-1
+{
+    float: left;
+}
+.player-2
+{
+    float: right;
+}
+footer
+{
+    clear: both;
+}
+.mid-container
+{
+    width: 50%;
+    margin: auto;
+}
+footer
+{
+    font-size: 1.3em;
+    width: 15vw;
+    margin: 500px auto 0px;
+    color: #EEEEEE;
+    text-shadow: 0px 0px 10px greenyellow;
+}
